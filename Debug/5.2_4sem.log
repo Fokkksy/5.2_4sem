@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\Вадим\source\repos\5.2_4sem\5.2_4sem\main.cpp(11,35): error C2955: "std::uniform_int_distribution": для использования класс шаблон требуется список аргументов шаблон
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\random(1874): message : см. объявление "std::uniform_int_distribution"
+C:\Users\Вадим\source\repos\5.2_4sem\5.2_4sem\main.cpp(11,50): error C2514: "std::uniform_int_distribution": невозможно создать шаблон класса.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\random(1874): message : см. объявление "std::uniform_int_distribution"
+C:\Users\Вадим\source\repos\5.2_4sem\5.2_4sem\main.cpp(43,10): error C2039: "getline": не является членом "std".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\random(27): message : см. объявление "std"
+C:\Users\Вадим\source\repos\5.2_4sem\5.2_4sem\main.cpp(43,17): error C3861: getline: идентификатор не найден
